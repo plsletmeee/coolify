@@ -3,7 +3,7 @@
     "type": "module",
     "scripts": {
         "dev": "vite",
-        "start": "cd ./scripts/ && bash install.sh"
+        "start": "cd ./scripts/ && bash run.sh"
     },
     "devDependencies": {
         "@vitejs/plugin-vue": "4.5.1",
