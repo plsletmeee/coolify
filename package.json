@@ -3,7 +3,6 @@
     "type": "module",
     "scripts": {
         "dev": "vite",
-        "build": "vite build",
         "start": "cd ./scripts/ && bash install.sh"
     },
     "devDependencies": {
